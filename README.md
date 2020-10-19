@@ -1,5 +1,7 @@
 ## 全域訊息彈跳視窗  
 
+![messagePopup](/assets/messagepopup.PNG)  
+
 ### 引入方式:  
 Step1: 將component內檔案放入專案內  
 Step2: 在main.js引入組件  
