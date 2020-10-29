@@ -13,7 +13,7 @@ const DefaultConstructor = vue.extend(modalTemplate);
  * content: 訊息內容
  * cancelText: 取消按鈕文字,
  * confirmText: 確認按鈕文字,
- * callback: 確認扭函式
+ * onOk: 確認扭函式
  */
 function customMessageFunc(data) {
   let type = data.type ? data.type : "error";
